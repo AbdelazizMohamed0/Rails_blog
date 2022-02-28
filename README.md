@@ -1,3 +1,3 @@
-# rails_blog
-# Rails_blog
-# Rails_blog
+Rails Blog
+CRUD Article And comments for every article
+only article can edit  
